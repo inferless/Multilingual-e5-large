@@ -1,5 +1,8 @@
 # Jina-embeddings-v2-base-en
-This is a Jina-embeddings-v2-base-en model template you can use to import your model on Inferless Platform. It's a  english monolingual embedding model with 8192 sequence length. Built on BERT architecture (JinaBERT) supporting symmetric bidirectional variant of ALiBi for extended sequence length. Pretrained on C4 dataset, further trained on Jina AI's collection of 400M+ sentence pairs & hard negatives from diverse domains, meticulously curated.
+The intfloat/multilingual-e5-large model is a sophisticated embedding model developed at Microsoft, as part of a series of embedding models. This model is specifically designed to excel in tasks that demand robust text representation, such as information retrieval, semantic textual similarity, text reranking, and more.
+
+The model is meticulously trained on an expansive and varied corpus, which enables it to deliver top-tier performance across a multitude of benchmarks, including the renowned MTEB and its variants
+. It is particularly adept at handling multilingual text data, making it an ideal choice for tasks that require understanding and processing text in different languages.
 
 ---
 ## Prerequisites
