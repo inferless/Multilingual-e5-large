@@ -1,5 +1,5 @@
 INPUT_SCHEMA = {
-    "sentences": {
+    "sentence": {
         'datatype': 'STRING',
         'required': True,
         'shape': [1],
