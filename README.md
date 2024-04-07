@@ -1,5 +1,5 @@
-# Jina-embeddings-v2-base-en
-The intfloat/multilingual-e5-large model is a sophisticated embedding model developed at Microsoft, as part of a series of embedding models. This model is specifically designed to excel in tasks that demand robust text representation, such as information retrieval, semantic textual similarity, text reranking, and more.
+# Multilingual-e5-large
+The multilingual-e5-large model is a sophisticated embedding model developed at Microsoft, as part of a series of embedding models. This model is specifically designed to excel in tasks that demand robust text representation, such as information retrieval, semantic textual similarity, text reranking, and more.
 
 The model is meticulously trained on an expansive and varied corpus, which enables it to deliver top-tier performance across a multitude of benchmarks, including the renowned MTEB and its variants
 . It is particularly adept at handling multilingual text data, making it an ideal choice for tasks that require understanding and processing text in different languages.
