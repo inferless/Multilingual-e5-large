@@ -3,4 +3,5 @@ build:
   system_packages:
     - "libssl-dev"
   python_packages:
-    - "sentence-transformers==2.6.0"
+    - "transformers==4.39.3"
+    - "torch==2.2.2"
